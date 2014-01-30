@@ -1,3 +1,5 @@
+# Prolouge #
+
 In software development, especially mobile developement is rapidly improved. And as a software developer, I think there're always many thing for us to learn everyday. 
 
 Being able to keep track of what's news in technology today is really difficult, it's daunting, not to say an impossible task; but we can't help but have to keep being updated. Besides, information overloaded should be avoided. 
@@ -8,7 +10,7 @@ But the answer is, to me, we just need to learn what matters us the most, and gr
 
 Here is my a list of my personal iOS developement toolbox. Hope some find it useful
 
-Inspired by:
+### Inspired by ###
 + Stanislaw Pankevich's iOS Project Catalogue: https://github.com/stanislaw/iOS-Projects-Catalogue
 + Eduardo Diaz Sancha's 'What's in my iOS toolbox': http://edsancha.com/blog/2014/01/28/whats-in-my-iOS-toolbox.html
 + Ben Scheirman's 'The iOS developers Toolbelt': http://benscheirman.com/2013/08/the-ios-developers-toolbelt/
@@ -16,7 +18,8 @@ Inspired by:
 
 Can't miss:
 + [Hacker News](https://news.ycombinator.com/)
-+ [CocoaPods](http://cocoapods.org/) -- huge time saver, the one and only tool to help us manage Objective-C dependencies. If possible, don't do drag and drop into Xcode project, use `pod install` instead. I've been using it in all of my apps in the Store.
++ [CocoaPods](http://cocoapods.org/) -- huge time saver, the one and only tool to help us manage Objective-C dependencies. If possible, don't do drag and drop into Xcode project, use `pod install` instead. I've been using it in all of [my apps](http://gist.io/7972328) on the iTunes App Store.
++ objc.io -> http://www.objc.io/subscribe.html <-
 
 Also, 
 Cocoapods new pod feeds to email -- Newsletter-like:
@@ -168,3 +171,23 @@ Others:
 + [Mantle](https://github.com/MantleFramework/Mantle) - Model framework for Cocoa and Cocoa Touch
 
 ... updating
+
+### Shameless plug ###
+Check out my apps:
++ [Humid](http://vinhnx.github.io/humid-site)
++ [WriteDown](http://vinhnx.github.io/writedown-site)
+
+I use these almost all these pratices in those app. Please take a look
+
+### Contribute ###
+
+Huge thanks! If you want to improve this list, please let me know. And since I'm not an English native speaker so If you found any grammar mistake, please also let me know. :)
+
+### Contact ###
+
+@vinhnx - on (almost) everything
+
+--
+
+*Last edited: 4:33PM (GMT +7). Thursday, January 30th, 2014.*
+
