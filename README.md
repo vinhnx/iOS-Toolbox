@@ -1,4 +1,4 @@
-# Prolouge #
+# Prologue #
 
 In software development, especially mobile developement is rapidly improved. And as a software developer, I think there're always many thing for us to learn everyday. 
 
@@ -189,5 +189,5 @@ Huge thanks! If you want to improve this list, please let me know. And since I'm
 
 --
 
-*Last edited: 4:33PM (GMT +7). Thursday, January 30th, 2014.*
+*Last edited: 4:34PM (GMT +7). Thursday, January 30th, 2014.*
 
