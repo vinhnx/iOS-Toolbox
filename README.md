@@ -1,6 +1,6 @@
 # Prologue #
 
-In software development, especially mobile developement is rapidly improved. And as a software developer, I think there're always many thing for us to learn everyday. 
+Software development, especially mobile developement nas been rapidly improving. Nowadays, they are things that are unthinkable as of sereral years ago. The world has moved to mobile. And as a mobile software/iOS developer, I think there're always many thing for us to learn everyday. 
 
 Being able to keep track of what's news in technology today is really difficult, it's daunting, not to say an impossible task; but we can't help but have to keep being updated. Besides, information overloaded should be avoided. 
 
