@@ -68,7 +68,7 @@ Twitter accounts you should be following, in no particular orders:
 + ...
 
 Newsletter:
-+ iOS Goodies http://ios-goodies.tumblr.com/rss, IFTTT recipe: 
++ iOS Goodies http://ios-goodies.tumblr.com/rss, IFTTT recipe: https://ifttt.com/recipes/143200-ios-goodies-blog
 + ManiacDev.Com
 + Dailybbble, help find me app design inspiration http://dailybbble.herokuapp.com/
 + Apple Mailing List, particularly objc-language-request, xcode-users-request: https://lists.apple.com/
