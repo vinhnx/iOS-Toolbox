@@ -170,14 +170,14 @@ Others:
 + [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - A framework for composing and transforming streams of values.
 + [Mantle](https://github.com/MantleFramework/Mantle) - Model framework for Cocoa and Cocoa Touch
 
+
+### Current status ###
+
 ... updating
 
-### Shameless plug ###
-Check out my apps:
-+ [Humid](http://vinhnx.github.io/humid-site)
-+ [WriteDown](http://vinhnx.github.io/writedown-site)
+### Todo ###
 
-I use these almost all these pratices in those app. Please take a look
+Add link to list items... Add more sections and items.
 
 ### Contribute ###
 
@@ -185,9 +185,4 @@ Huge thanks! If you want to improve this list, please let me know. And since I'm
 
 ### Contact ###
 
-@vinhnx - on (almost) everything
-
---
-
-*Last edited: 4:34PM (GMT +7). Thursday, January 30th, 2014.*
-
+@vinhnx :)
