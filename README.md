@@ -206,4 +206,10 @@ Huge thanks! If you want to improve this list, please let me know. And since I'm
 
 ### Contact ###
 
-@vinhnx :)
+I'm @vinhnx on both Twitter and GitHub.
+Feel free to send me an [email](mailto:vinhnguyen2308@gmail.com).
+
+-- 
+
+Thanks for reading!
+
