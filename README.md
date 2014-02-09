@@ -30,14 +30,15 @@ Cocoapods new pod feeds to email -- Newsletter-like:
 ## Blogs/sites ##
 
 + [NSHipster](http://nshipster.com/)
-+ [NSBlog](https://www.mikeash.com/pyblog/‎)
++ [NSBlog](https://www.mikeash.com/pyblog/)
 + [iOSDeveloperTip](http://iosdevelopertips.com/)
 + [Alex Curylo's blog](http://www.alexcurylo.com/blog/)
 + [TeehanLax's blog](http://www.teehanlax.com/blog/)
 + [RayWenderlich](http://www.raywenderlich.com/)
-+ [Mobile Tuts+](mobile.tutsplus.com/‎)
++ [Mobile Tuts+](mobile.tutsplus.com/)
 + [Cocoacontrols.com](http://cocoacontrols.com/)
-+ [idevblogaday](idevblogaday.com/‎)
++ [idevblogaday](idevblogaday.com/)
++ [The Codist](http://thecodist.com/)
 
 ## Twitter ##
 
