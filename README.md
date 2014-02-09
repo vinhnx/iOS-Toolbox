@@ -8,7 +8,9 @@ How we manage to find informations, how we can seperate them into small prioriti
 
 But the answer is, to me, we just need to learn what matters us the most, and group them in a list or something like that. I call it a 'toolbox'. 
 
-Here is my a list of my personal iOS developement toolbox. Hope some find it useful
+Here is my a list of my personal iOS developement toolbox. I hope it useful for you somewhat! 
+
+**(Note: All list items are arranged in no particular order)**
 
 ### Inspired by ###
 
