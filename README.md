@@ -197,7 +197,8 @@ For Xcode Package Managament, I highly reccommended [Alcatraz](http://mneorr.git
 
 ### Todo ###
 
-Add link to list items... Add more sections and items.
+* Add link to list items.
+* Add more sections and items.
 
 ### Contribute ###
 
