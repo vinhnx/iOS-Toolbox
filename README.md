@@ -94,6 +94,7 @@ Twitter accounts you should be following, in no particular orders:
 + [ThoughtBot Build Phase](http://podcasts.thoughtbot.com/buildphase)
 + [JellyStyle MobileCouch](http://jellystyle.com/podcasts/mobilecouch)
 + [RayWenderlich](http://www.raywenderlich.com/)
++ [Springboard Show](http://springboardshow.com/)
 
 ## Objective-C IDE ##
 
