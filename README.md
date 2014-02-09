@@ -177,23 +177,32 @@ For Xcode Package Managament, I highly reccommended [Alcatraz](http://mneorr.git
 + ...
 
 ## Caching ##
+
 + [TMCache](https://github.com/tumblr/TMCache)
-+ ISDiskCache
-+ ISMemoryCache 
-+ EGOCache
++ [ISDiskCache](https://github.com/ishkawa/ISDiskCache)
++ [ISMemoryCache](https://github.com/ishkawa/ISMemoryCache)
++ [EGOCache](https://github.com/enormego/EGOCache)
 
 ## Testing ##
-+ Kiwi
-+ KIF
-+ Cedar
-+ Specta
-+ Expecta
 
-## Others ##
++ [Kiwi](https://github.com/allending/Kiwi)
++ [KIF](https://github.com/kif-framework/KIF)
++ [Cedar](https://github.com/pivotal/cedar)
++ [Specta](https://github.com/specta/specta)
++ [Expecta](https://github.com/specta/expecta)
+
+## Functional Reactive Programming for Cocoa(Touch) ##
 
 + [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - A framework for composing and transforming streams of values.
+
+## Model ##
+
 + [Mantle](https://github.com/MantleFramework/Mantle) - Model framework for Cocoa and Cocoa Touch
 
+## Kits/Helpers ##
+
++ [BlocksKit](https://github.com/pandamonia/BlocksKit)
++ [QSKit](https://github.com/quartermaster/QSKit)
 
 ### Current status ###
 
@@ -201,7 +210,8 @@ For Xcode Package Managament, I highly reccommended [Alcatraz](http://mneorr.git
 
 ### Todo ###
 
-* Add link to list items.
+* Add more list description or comments
+* Finish adding link to list items.
 * Add more sections and items.
 
 ### Contribute ###
