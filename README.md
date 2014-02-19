@@ -1,6 +1,6 @@
 # Prologue #
 
-Software development, especially mobile developement nas been rapidly improving. Nowadays, they are things that are unthinkable as of sereral years ago. The world has moved to mobile. And as a mobile software/iOS developer, I think there're always many thing for us to learn everyday. 
+Software development, especially mobile developement nas been rapidly improving. Nowadays, they are things that are unthinkable as of sereral years ago. The world has moved to mobile. And as a (newbie) mobile software/iOS developer, I think there're always many thing for us to learn everyday. 
 
 Being able to keep track of what's news in technology today is really difficult, it's daunting, not to say an impossible task; but we can't help but have to keep being updated. Besides, information overloaded should be avoided. 
 
@@ -101,15 +101,15 @@ Twitter accounts you should be following, in no particular orders:
 
 ## Objective-C IDE ##
 
-+ Xcode
-+ AppCode
++ [Xcode](https://developer.apple.com/xcode/)
++ [AppCode](http://www.jetbrains.com/objc/) by JetBrains
 
-For Xcode Package Managament, I highly reccommended [Alcatraz](http://mneorr.github.io/Alcatraz/), It is something you don't want to miss in your Xcode dev arsenal.
+(For Xcode Package Managament, I highly reccommended [Alcatraz](http://mneorr.github.io/Alcatraz/), It is something you don't want to miss in your Xcode dev arsenal.)
 
 ## Text Edtior ##
 
-+ SublimeText
-+ MacVim
++ [SublimeText](http://www.sublimetext.com/dev)
++ [MacVim](MacVim)
 + ...
 
 ## Style guides ##
@@ -126,84 +126,96 @@ For Xcode Package Managament, I highly reccommended [Alcatraz](http://mneorr.git
 
 ## Analytics tools ##
 
-+ Google Analytics (my personal favorite)
-+ Flurry
+### Free ###
++ [Google Analytics](www.google.com/analytics/) (my personal favorite)
++ [Flurry](www.flurry.com)/
 + ...
 
-## Crash report ##
+### Paid ###
++ [Mixpanel](https://mixpanel.com/) -- The most advanced analytics platform ever for mobile and the web.
++ [HockeyApp](hockeyapp.net/) -- HockeyApp is the best way to collect live crash reports, get feedback from your users, distribute your betas, and analyze your test coverage.
++ ...
 
-+ Crashlytics
+## Crash reporting tools ##
+
++ [Crashlytics](https://crashlytics.com/) -- The world's most powerful, yet lightest weight crash reporting solution.
 + ...
 
 ## Logging ##
-+ CocoaLumberjack
-+ [NSLogger](https://github.com/fpillet/NSLogger)
++ [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) -- A fast & simple, yet powerful & flexible logging framework for Mac and iOS
++ [NSLogger](https://github.com/fpillet/NSLogger) -- A modern, flexible logging tool.
 + ...
 
-## Customers service ##
+## Customers service/support/assist ##
 
-+ [UserVoice](https://www.uservoice.com/)
-+ Apptentive
++ [UserVoice](https://www.uservoice.com/) -- Feedback & Online Help Desk Software.
++ [Apptentive](www.apptentive.com/) -- In-App Feedback & Rating Prompts.
 + ...
 
 ## Icon fonts ##
-+ [ion icons](http://ionicons.com/) -- my favorite. ([Objective-C port](https://github.com/TapTemplate/ionicons-iOS))
-+ [FontAwesome](fortawesome.github.io/Font-Awesome/)
++ [ion icons](http://ionicons.com/) -- The premium icon font for Ionic Framework. ([Objective-C port](https://github.com/TapTemplate/ionicons-iOS))
++ [FontAwesome](fortawesome.github.io/Font-Awesome/) -- The iconic font designed for Bootstrap.
 
-## In app rating prompt ##
+## In-app tools ##
 
-+ iRate
+### Rating prompt ###
+
++ [iRate](https://github.com/nicklockwood/iRate) -- A handy class that prompts users of your iPhone or Mac App Store app to rate your application after using it for a while
++ [Appirater](https://github.com/arashpayan/appirater) -- A utility that reminds your iPhone app's users to review the app.
 + ...
 
-## In app share kit ##
+### Share kit ###
 
-+ OvershareKit
++ [OvershareKit](https://github.com/overshare/overshare-kit) -- A soup-to-nuts sharing library for iOS.
 + ...
 
-## In app settings kit ##
+### Settings kit ###
 
-+ InAppSettingsKit
-+ InAppSettings
++ [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) -- This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
++ [InAppSettings](https://github.com/kgn/InAppSettings) -- InAppSettings provides a view controller that displays the application's Settings.bundle as it appears in the iPhone settings.
 + ...
 
-## In app feedback ##
+### Feedback view ###
 
-+ QBFeedback
++ [QBFeedback](https://github.com/questbeat/QBFeedback) -- QBFeedback is the library for getting feedbacks from the users easily.
++ [CTFeedback](https://github.com/rizumita/CTFeedback) -- CTFeedback is a library to send feedback for iOS 6.0+.
 
-## Head Up Display (HUD) ##
+### Head Up Display (HUD) ###
 
-+ GBHUD
-+ MBProgressHUD
-+ SVProgressHUD
++ [GBHUD](https://github.com/lmirosevic/GBHUD) -- Lightweight HUD (heads up display) for quick transient modals in iOS & OSX apps.
++ [MBProgressHUD](https://github.com/jdg/MBProgressHUD) -- MBProgressHUD is an iOS drop-in class that displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.
++ [SVProgressHUD](https://github.com/samvermette/SVProgressHUD) -- A clean and lightweight progress HUD for your iOS app.
 + ...
 
 ## Caching ##
 
-+ [TMCache](https://github.com/tumblr/TMCache)
-+ [ISDiskCache](https://github.com/ishkawa/ISDiskCache)
-+ [ISMemoryCache](https://github.com/ishkawa/ISMemoryCache)
-+ [EGOCache](https://github.com/enormego/EGOCache)
++ [TMCache](https://github.com/tumblr/TMCache) -- Fast parallel object cache for iOS and OS X.
++ [ISDiskCache](https://github.com/ishkawa/ISDiskCache) -- LRU disk cache for iOS.
++ [ISMemoryCache](https://github.com/ishkawa/ISMemoryCache) -- NSDictionary-based memory cache.
++ [EGOCache](https://github.com/enormego/EGOCache) -- Fast Caching for Objective-C (iPhone & Mac Compatible).
 
 ## Testing ##
 
-+ [Kiwi](https://github.com/allending/Kiwi)
-+ [KIF](https://github.com/kif-framework/KIF)
-+ [Cedar](https://github.com/pivotal/cedar)
-+ [Specta](https://github.com/specta/specta)
-+ [Expecta](https://github.com/specta/expecta)
++ [Kiwi](https://github.com/allending/Kiwi) -- BDD for iOS.
++ [KIF](https://github.com/kif-framework/KIF) -- Keep It Functional - An iOS Functional Testing Framework.
++ [Cedar](https://github.com/pivotal/cedar) -- BDD-style testing using Objective-C.
++ [Specta](https://github.com/specta/specta) -- A light-weight TDD / BDD framework for Objective-C & Cocoa.
++ [Expecta](https://github.com/specta/expecta) -- A Matcher Framework for Objective-C/Cocoa.
 
 ## Functional Reactive Programming for Cocoa(Touch) ##
 
-+ [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - A framework for composing and transforming streams of values.
++ [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) -- A framework for composing and transforming streams of values.
 
 ## Model ##
 
-+ [Mantle](https://github.com/MantleFramework/Mantle) - Model framework for Cocoa and Cocoa Touch
++ [Mantle](https://github.com/MantleFramework/Mantle) -- Model framework for Cocoa and Cocoa Touch
++ ...
 
 ## Kits/Helpers ##
 
-+ [BlocksKit](https://github.com/pandamonia/BlocksKit)
-+ [QSKit](https://github.com/quartermaster/QSKit)
++ [BlocksKit](https://github.com/pandamonia/BlocksKit) -- The Objective-C block utilities you always wish you had.
++ [QSKit](https://github.com/quartermaster/QSKit) -- Q Branch’s collection of Cocoa categories and utilities.
++ ...
 
 ### Current status ###
 
@@ -217,7 +229,9 @@ For Xcode Package Managament, I highly reccommended [Alcatraz](http://mneorr.git
 
 ### Contribute ###
 
-Huge thanks! If you want to improve this list, please let me know. And since I'm not an English native speaker so If you found any grammar mistake, please also let me know. :)
+Huge thanks! If you want to add your work to this list, please send me a Pull Request, I'll happily merge. If you add more sections, items; or you want to correct some information, please also send me a Pull Request.
+
+And since I'm not an English native speaker so If you found any grammar mistake, please also let me know. :)
 
 ### Contact ###
 
