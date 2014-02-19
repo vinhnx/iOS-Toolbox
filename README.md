@@ -77,7 +77,7 @@ Twitter accounts you should be following, in no particular orders:
 + [@codinghorror](http://twitter.com/@codinghorror)
 + [@tonyarnold](http://twitter.com/@tonyarnold)
 + [@alding](http://twitter.com/@alding)
-+ ...
++ (... your Twitter handle here!)
 
 ## Newsletter ##
 
