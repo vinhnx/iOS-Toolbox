@@ -1,4 +1,6 @@
-# Prologue #
+# iOS Toolbox #
+
+### Prologue ###
 
 Software development, especially mobile developement nas been rapidly improving. Nowadays, they are things that are unthinkable as of sereral years ago. The world has moved to mobile. And as a (newbie) mobile software/iOS developer, I think there're always many thing for us to learn everyday. 
 
@@ -19,6 +21,10 @@ Here is my a list of my personal iOS developement toolbox. I hope it useful for 
 + [iOS Project Catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue) by [Stanislaw Pankevich](https://github.com/stanislaw).
 + [iOS Topics and Reference](https://github.com/2359media/ios-dev-guide/blob/master/iOS%20Topics%20and%20References.md) by [Phat Le](https://github.com/phatle).
 + [iOS Dev Tools](https://github.com/EvgenyKarkan/iOSDevTools) by [Evgeny Karkan](https://github.com/EvgenyKarkan).
+
+Let's get started!
+
+***
 
 ## Can't miss ##
 
@@ -217,6 +223,10 @@ Twitter accounts you should be following, in no particular orders:
 + [BlocksKit](https://github.com/pandamonia/BlocksKit) -- The Objective-C block utilities you always wish you had.
 + [QSKit](https://github.com/quartermaster/QSKit) -- Q Branch’s collection of Cocoa categories and utilities.
 + ...
+
+***
+
+## Footnotes ##
 
 ### Current status ###
 
