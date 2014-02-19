@@ -83,7 +83,7 @@ Twitter accounts you should be following, in no particular orders:
 
 + [iOS Goodies](http://ios-goodies.tumblr.com/rss), [IFTTT recipe](https://ifttt.com/recipes/143200-ios-goodies-blog)
 + [ManiacDev](http://ManiacDev.Com)
-+ [Dailybbble](http://dailybbble.herokuapp.com/), help find app design inspiration
++ [Dailybbble](http://dailybbble.herokuapp.com/), app design inspiration
 + [Apple Mailing List](https://lists.apple.com/), particularly objc-language-request, xcode-users-request
 + [GihubArchive](http://www.githubarchive.org/)
 + [Github Explore](https://github.com/explore/subscribe)
@@ -128,7 +128,7 @@ Twitter accounts you should be following, in no particular orders:
 
 ### Free ###
 + [Google Analytics](www.google.com/analytics/) (my personal favorite)
-+ [Flurry](www.flurry.com)/
++ [Flurry](www.flurry.com)
 + ...
 
 ### Paid ###
