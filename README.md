@@ -14,27 +14,28 @@ Here is my a list of my personal iOS developement toolbox. I hope it useful for 
 
 ### Inspired by ###
 
-+ Stanislaw Pankevich ([@stanislaw](https://github.com/stanislaw))'s [iOS Project Catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue).
-+ Eduardo Diaz Sancha's '[What's in my iOS toolbox](http://edsancha.com/blog/2014/01/28/whats-in-my-iOS-toolbox.html)'.
-+ Ben Scheirman's '[The iOS developers Toolbelt](http://benscheirman.com/2013/08/the-ios-developers-toolbelt/)'
-+ Phat Le at 2359 Media's throughout list '[iOS Topics and Reference](https://github.com/2359media/ios-dev-guide/blob/master/iOS%20Topics%20and%20References.md)'
-+ Evgeny Karkan's '[iOS Dev Tools](https://github.com/EvgenyKarkan/iOSDevTools)'.
++ [What's in my iOS toolbox](http://edsancha.com/blog/2014/01/28/whats-in-my-iOS-toolbox.html) by Eduardo Diaz Sancha.
++ [The iOS developers Toolbelt](http://benscheirman.com/2013/08/the-ios-developers-toolbelt/) by [Ben Scheirman](https://github.com/subdigital).
++ [iOS Project Catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue) by [Stanislaw Pankevich](https://github.com/stanislaw).
++ [iOS Topics and Reference](https://github.com/2359media/ios-dev-guide/blob/master/iOS%20Topics%20and%20References.md) by [Phat Le](https://github.com/phatle).
++ [iOS Dev Tools](https://github.com/EvgenyKarkan/iOSDevTools) by [Evgeny Karkan](https://github.com/EvgenyKarkan).
 
 ## Can't miss ##
 
-+ [Hacker News](https://news.ycombinator.com/)
++ [Hacker News](https://news.ycombinator.com/) -- words
 + [CocoaPods](http://cocoapods.org/) -- huge time saver, the one and only tool to help us manage Objective-C dependencies. If possible, don't do drag and drop into Xcode project, use `pod install` instead. I've been using it in all of [my apps](https://itunes.apple.com/us/artist/nguyen-vinh/id670733155) on the iTunes App Store.
 + [objc.io](http://www.objc.io/subscribe.html) -- Don't forget to subscribe
 
 Also, 
 Cocoapods new pod feeds to email -- Newsletter-like:
-+ I'm a [Feer of Missing Out -- FOMO](http://en.wikipedia.org/wiki/Fear_of_missing_out) kind of person. And since there is dozens of interesting new pods everyday, it easy to miss something great, and I want to try something new very early. So I create [this IFTTT recipe](https://ifttt.com/recipes/132717-notify-new-pods-via-email) to help me do just that.
++ I'm a [Feer of Missing Out -- FOMO](http://en.wikipedia.org/wiki/Fear_of_missing_out) kind of person. And since there is dozens of interesting new pods everyday, it easy to miss something great, and I want to try something new very early. So I create [this IFTTT recipe](https://ifttt.com/recipes/132717-notify-new-pods-via-email) to help me do just that. 
+(you can also follow [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed) on Twitter for this reason. As of February 19th, 2014, the feed stops working...)
 
 ## Blogs/sites ##
 
-+ [NSHipster](http://nshipster.com/)
-+ [NSBlog](https://www.mikeash.com/pyblog/)
-+ [iOSDeveloperTip](http://iosdevelopertips.com/)
++ [NSHipster](http://nshipster.com/) -- NSHipster is a journal of the overlooked bits in Objective-C and Cocoa. Updated weekly. By [Matt Thompson](https://github.com/mattt).
++ [NSBlog](https://www.mikeash.com/pyblog/) [by Mike Ash](https://github.com/mikeash)
++ [iOSDeveloperTips](http://iosdevelopertips.com/)
 + [Alex Curylo's blog](http://www.alexcurylo.com/blog/)
 + [TeehanLax's blog](http://www.teehanlax.com/blog/)
 + [RayWenderlich](http://www.raywenderlich.com/)
