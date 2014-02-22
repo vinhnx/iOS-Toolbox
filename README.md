@@ -50,6 +50,10 @@ Cocoapods new pod feeds to email -- Newsletter-like:
 + [idevblogaday](idevblogaday.com/)
 + [The Codist](http://thecodist.com/)
 
+## Articles ##
+
++ [Clean, Modern Objective-C by Harlan Harkins](http://harlanhaskins.com/2014/02/20/clean-modern-objective-c.html)
+
 ## Twitter ##
 
 Twitter accounts you should be following, in no particular orders:
