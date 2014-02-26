@@ -1,16 +1,14 @@
-# iOS Toolbox #
-
 ### Prologue ###
 
-Software development, especially mobile developement nas been rapidly improving. Nowadays, they are things that are unthinkable as of sereral years ago. The world has moved to mobile. And as a (newbie) mobile software/iOS developer, I think there're always many thing for us to learn everyday. 
+Software development, especially mobile development has been rapidly improving. Nowadays, they are things that are unthinkable as of several years ago. The world has moved to mobile. And as a (newbie) mobile software/iOS developer, I think there're always many thing for us to learn everyday. 
 
 Being able to keep track of what's news in technology today is really difficult, it's daunting, not to say an impossible task; but we can't help but have to keep being updated. Besides, information overloaded should be avoided. 
 
-How we manage to find informations, how we can seperate them into small priorities/categories, how we use our tools to make the most of them; there are so many hows?
+How we manage to find informations, how we can separate them into small priorities/categories, how we use our tools to make the most of them; there are so many hows?
 
 But the answer is, to me, we just need to learn what matters us the most, and group them in a list or something like that. I call it a 'toolbox'. 
 
-Here is my a list of my personal iOS developement toolbox. I hope it useful for you somewhat! 
+Here is my a list of my personal iOS development toolbox. I hope it useful for you somewhat! 
 
 **(Note: All list items are arranged in no particular order)**
 
@@ -34,7 +32,7 @@ Let's get started!
 
 Also, 
 Cocoapods new pod feeds to email -- Newsletter-like:
-+ I'm a [Feer of Missing Out -- FOMO](http://en.wikipedia.org/wiki/Fear_of_missing_out) kind of person. And since there is dozens of interesting new pods everyday, it easy to miss something great, and I want to try something new very early. So I create [this IFTTT recipe](https://ifttt.com/recipes/132717-notify-new-pods-via-email) to help me do just that. 
++ I'm a [Fear of Missing Out -- FOMO](http://en.wikipedia.org/wiki/Fear_of_missing_out) kind of person. And since there is dozens of interesting new pods everyday, it easy to miss something great, and I want to try something new very early. So I create [this IFTTT recipe](https://ifttt.com/recipes/132717-notify-new-pods-via-email) to help me do just that. 
 (you can also follow [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed) on Twitter for this reason. As of February 19th, 2014, the feed stops working...)
 
 ## Blogs/sites ##
@@ -115,9 +113,9 @@ Twitter accounts you should be following, in no particular orders:
 + [Xcode](https://developer.apple.com/xcode/)
 + [AppCode](http://www.jetbrains.com/objc/) by JetBrains
 
-(For Xcode Package Managament, I highly reccommended [Alcatraz](http://mneorr.github.io/Alcatraz/), It is something you don't want to miss in your Xcode dev arsenal.)
+(For Xcode Package Management, I highly recommended [Alcatraz](http://mneorr.github.io/Alcatraz/), It is something you don't want to miss in your Xcode dev arsenal.)
 
-## Text Edtior ##
+## Text Editor ##
 
 + [SublimeText](http://www.sublimetext.com/dev)
 + [MacVim](MacVim)
@@ -130,7 +128,7 @@ Twitter accounts you should be following, in no particular orders:
 + [GitHub](https://github.com/github/objective-c-conventions)
 + ...
 
-## Cheatsheet ##
+## Cheat sheet ##
 
 + [RayWenderlich's](http://cdn1.raywenderlich.com/downloads/RW-Objective-C-Cheatsheet-v-1-5.pdf) [PDF]
 + [Rob Phillips's](https://github.com/iwasrobbed/Objective-C-CheatSheet)
@@ -143,7 +141,7 @@ Twitter accounts you should be following, in no particular orders:
 + ...
 
 ### Paid ###
-+ [Mixpanel](https://mixpanel.com/) -- The most advanced analytics platform ever for mobile and the web.
++ [MixPanel](https://mixpanel.com/) -- The most advanced analytics platform ever for mobile and the web.
 + [HockeyApp](hockeyapp.net/) -- HockeyApp is the best way to collect live crash reports, get feedback from your users, distribute your betas, and analyze your test coverage.
 + ...
 
@@ -272,4 +270,3 @@ Feel free to send me an [email](mailto:vinhnguyen2308@gmail.com).
 -- 
 
 Thanks for reading!
-
