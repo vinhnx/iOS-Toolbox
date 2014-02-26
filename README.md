@@ -238,7 +238,7 @@ Twitter accounts you should be following, in no particular orders:
 + [FuzzyAutoComplete](https://github.com/chendo/FuzzyAutocompletePlugin)
 + [JDPluginManager](https://github.com/jaydee3/JDPluginManager)
 + [KSImageName](https://github.com/ksuther/KSImageNamed-Xcode)
-+ Lin
++ [Lin](https://github.com/questbeat/Lin-Xcode5)
 + [ColorSense](https://github.com/omz/ColorSense-for-Xcode)
 + [Dash Plugin for Xcode](https://github.com/omz/Dash-Plugin-for-Xcode)
 + [VVDocument-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
