@@ -228,6 +228,22 @@ Twitter accounts you should be following, in no particular orders:
 + [QSKit](https://github.com/quartermaster/QSKit) -- Q Branch’s collection of Cocoa categories and utilities.
 + ...
 
+## Plugins ##
+
++ Uncrustify: [plugin](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode), [app](https://github.com/ryanmaxwell/UncrustifyX)
++ [Dash](http://kapeli.com/dash)
++ [Alcatraz](supermarin.github.io/Alcatraz)
++ [ClangFormat](https://github.com/travisjeffery/ClangFormat-Xcode)
++ [Cocoapods Xcode plugin](https://github.com/kattrali/cocoapods-xcode-plugin)
++ [FuzzyAutoComplete](https://github.com/chendo/FuzzyAutocompletePlugin)
++ [JDPluginManager](https://github.com/jaydee3/JDPluginManager)
++ [KSImageName](https://github.com/ksuther/KSImageNamed-Xcode)
++ Lin
++ [ColorSense](https://github.com/omz/ColorSense-for-Xcode)
++ [Dash Plugin for Xcode](https://github.com/omz/Dash-Plugin-for-Xcode)
++ [VVDocument-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
++ [XcodeColors](https://github.com/robbiehanson/XcodeColors)
+
 ***
 
 ## Footnotes ##
