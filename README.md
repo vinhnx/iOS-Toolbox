@@ -20,6 +20,7 @@ Here is my a list of my personal iOS development toolbox. I hope it useful for y
 + [iOS Topics and Reference](https://github.com/2359media/ios-dev-guide/blob/master/iOS%20Topics%20and%20References.md) by [Phat Le](https://github.com/phatle).
 + [iOS Dev Tools](https://github.com/EvgenyKarkan/iOSDevTools) by [Evgeny Karkan](https://github.com/EvgenyKarkan).
 + [iOS Apprentice](https://medium.com/ios-apprentice/ba312d12577d) by [James Tang](https://github.com/jamztang)
++ [iOS: Tools of the Trade](http://code.tutsplus.com/articles/ios-tools-of-the-trade--cms-19820)
 
 Let's get started!
 
