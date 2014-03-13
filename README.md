@@ -115,6 +115,7 @@ Twitter accounts you should be following, in no particular orders:
 + [JellyStyle MobileCouch](http://jellystyle.com/podcasts/mobilecouch)
 + [RayWenderlich](http://www.raywenderlich.com/)
 + [Springboard Show](http://springboardshow.com/)
++ ... [more](https://github.com/lukabratos/NSPodcasts)
 
 ## Objective-C IDE ##
 
