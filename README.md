@@ -12,15 +12,17 @@ Here is my a list of my personal iOS development toolbox. I hope it useful for y
 
 **(Note: All list items are arranged in no particular order)**
 
-### Inspired by ###
+### References ###
 
-+ [What's in my iOS toolbox](http://edsancha.com/blog/2014/01/28/whats-in-my-iOS-toolbox.html) by Eduardo Diaz Sancha.
++ What's in my iOS toolbox: [part 1](http://edsancha.com/blog/2014/01/28/whats-in-my-iOS-toolbox.html), [part 2](http://edsancha.com/blog/2014/02/03/whats-in-my-iOS-toolbox-2.html) by Eduardo Diaz Sancha.
 + [The iOS developers Toolbelt](http://benscheirman.com/2013/08/the-ios-developers-toolbelt/) by [Ben Scheirman](https://github.com/subdigital).
 + [iOS Project Catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue) by [Stanislaw Pankevich](https://github.com/stanislaw).
 + [iOS Topics and Reference](https://github.com/2359media/ios-dev-guide/blob/master/iOS%20Topics%20and%20References.md) by [Phat Le](https://github.com/phatle).
 + [iOS Dev Tools](https://github.com/EvgenyKarkan/iOSDevTools) by [Evgeny Karkan](https://github.com/EvgenyKarkan).
 + [iOS Apprentice](https://medium.com/ios-apprentice/ba312d12577d) by [James Tang](https://github.com/jamztang)
 + [iOS: Tools of the Trade](http://code.tutsplus.com/articles/ios-tools-of-the-trade--cms-19820)
++ [iOS Dev Tools by Krzysztof Zabłocki](https://speakerdeck.com/krzysztofzablocki/ios-developer-tools-at-london-alttechtalk)
++ [Mobile App Development Resources Guide](http://joppar.com/mobile-app-development-resources-guide/)
 
 Let's get started!
 
@@ -126,6 +128,10 @@ Twitter accounts you should be following, in no particular orders:
 + [SublimeText](http://www.sublimetext.com/dev)
 + [MacVim](MacVim)
 + ...
+
+## Terminal ##
+
++ [A Beautiful Productive Terminal Experience](http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience/)
 
 ## Style guides ##
 
