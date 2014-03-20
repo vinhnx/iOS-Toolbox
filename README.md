@@ -255,6 +255,10 @@ Twitter accounts you should be following, in no particular orders:
 + [VVDocument-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
 + [XcodeColors](https://github.com/robbiehanson/XcodeColors)
 
+## Academic Papers ##
+
++ [Papers We Love](https://github.com/papers-we-love/papers-we-love)
+
 ***
 
 ## Footnotes ##
