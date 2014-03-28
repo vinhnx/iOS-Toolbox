@@ -111,6 +111,9 @@ Twitter accounts you should be following, in no particular orders:
 
 ## Podcast ##
 
+> Not only are podcasts a great way to stay connected to the development community, they’re also a way to stay productive in your downtime.
+
++ [iOS podcast](http://mikebuss.com/2014/03/22/ios-podcasts/)
 + [NSBrief](http://nsbrief.com/)
 + [iphreaksshow](http://iphreaksshow.com/)
 + [ThoughtBot Build Phase](http://podcasts.thoughtbot.com/buildphase)
