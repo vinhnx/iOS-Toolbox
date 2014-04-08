@@ -292,4 +292,4 @@ Feel free to send me an [email](mailto:vinhnguyen2308@gmail.com).
 
 -- 
 
-Thanks for reading!
+Thanks for reading! :smile:
