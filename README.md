@@ -2,13 +2,13 @@
 
 Software development, especially mobile development has been rapidly improving. Nowadays, they are things that are unthinkable as of several years ago. The world has moved to mobile. And as a (newbie) mobile software/iOS developer, I think there're always many thing for us to learn everyday. 
 
-Being able to keep track of what's news in technology today is really difficult, it's daunting, not to say an impossible task; but we can't help but have to keep being updated. Besides, information overloaded should be avoided. 
+Being able to keep track of what's news in technology today is really difficult, it's daunting, not to say an impossible task; but we can't help but have to keep being updated. Besides, information overload should be avoided. We all have works to do, and life to enjoy. :) 
 
-How we manage to find informations, how we can separate them into small priorities/categories, how we use our tools to make the most of them; there are so many hows?
+So, how we manage to find informations, how we can separate them into small priorities/categories, or how we use our tools to make the most of them; there are so many hows?
 
-But the answer is, to me, we just need to learn what matters us the most, and group them in a list or something like that. I call it a 'toolbox'. 
+But the answer is, to me, we just need to learn what matters us the most, and better group them in a list or something like that. I call it a 'toolbox'.
 
-Here is my a list of my personal iOS development toolbox. I hope it useful for you somewhat! 
+Here is my a list of my personal iOS development toolbox. I hope it useful for you somewhat! Feel free to add yours. :)
 
 **(Note: All list items are arranged in no particular order)**
 
@@ -113,6 +113,7 @@ Twitter accounts you should be following, in no particular orders:
 
 > Not only are podcasts a great way to stay connected to the development community, they’re also a way to stay productive in your downtime.
 
++ [Pod5](http://pod5.io/)
 + [iOS podcast](http://mikebuss.com/2014/03/22/ios-podcasts/)
 + [NSBrief](http://nsbrief.com/)
 + [iphreaksshow](http://iphreaksshow.com/)
