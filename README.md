@@ -12,6 +12,10 @@ Here is my a list of my personal iOS development toolbox. I hope it useful for y
 
 **(Note: All list items are arranged in no particular order)**
 
+Let's get started! :rocket:
+
+***
+
 ### References ###
 
 + What's in my iOS toolbox: [part 1](http://edsancha.com/blog/2014/01/28/whats-in-my-iOS-toolbox.html), [part 2](http://edsancha.com/blog/2014/02/03/whats-in-my-iOS-toolbox-2.html) by Eduardo Diaz Sancha.
@@ -25,10 +29,6 @@ Here is my a list of my personal iOS development toolbox. I hope it useful for y
 + [Mobile App Development Resources Guide](http://joppar.com/mobile-app-development-resources-guide/)
 + [Worthy iOS Library](http://bpoplauschi.wordpress.com/2013/11/06/worthy-ios-libraries/)
 + [Worthy iOS Development Tools](http://bpoplauschi.wordpress.com/2014/03/07/worthy-ios-development-tools/)
-
-Let's get started!
-
-***
 
 ## Can't miss ##
 
