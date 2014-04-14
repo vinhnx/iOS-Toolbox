@@ -260,6 +260,7 @@ Twitter accounts you should be following, in no particular orders:
 + [Dash Plugin for Xcode](https://github.com/omz/Dash-Plugin-for-Xcode)
 + [VVDocument-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
 + [XcodeColors](https://github.com/robbiehanson/XcodeColors)
++ [Best Xcode Plugins -- blog](http://iosdevtips.co/post/82232620790/best-xcode-plugins)
 
 ## Academic Papers ##
 
