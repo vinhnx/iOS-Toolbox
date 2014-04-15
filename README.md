@@ -261,6 +261,7 @@ Twitter accounts you should be following, in no particular orders:
 + [VVDocument-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
 + [XcodeColors](https://github.com/robbiehanson/XcodeColors)
 + [Best Xcode Plugins -- blog](http://iosdevtips.co/post/82232620790/best-xcode-plugins)
++ [Xcode Plugins -- NSHipster](http://nshipster.com/xcode-plugins/)
 
 ## Academic Papers ##
 
