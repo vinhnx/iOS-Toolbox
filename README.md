@@ -114,14 +114,14 @@ Twitter accounts you should be following, in no particular orders:
 > Not only are podcasts a great way to stay connected to the development community, they’re also a way to stay productive in your downtime.
 
 + [Pod5](http://pod5.io/)
-+ [iOS podcast](http://mikebuss.com/2014/03/22/ios-podcasts/)
 + [NSBrief](http://nsbrief.com/)
 + [iphreaksshow](http://iphreaksshow.com/)
 + [ThoughtBot Build Phase](http://podcasts.thoughtbot.com/buildphase)
 + [JellyStyle MobileCouch](http://jellystyle.com/podcasts/mobilecouch)
 + [RayWenderlich](http://www.raywenderlich.com/)
 + [Springboard Show](http://springboardshow.com/)
-+ ... [more](https://github.com/lukabratos/NSPodcasts)
++ [iOS podcast](http://mikebuss.com/2014/03/22/ios-podcasts/)
++ [NSPodcast](https://github.com/lukabratos/NSPodcasts)
 
 ## Objective-C IDE ##
 
