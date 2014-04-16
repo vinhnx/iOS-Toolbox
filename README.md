@@ -136,6 +136,10 @@ Twitter accounts you should be following, in no particular orders:
 + [MacVim](MacVim)
 + ...
 
+# Programming Fonts ##
++ [What are the best programming fonts?](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)
++ [Inconsolata-g](http://leonardo-m.livejournal.com/77079.html) **my favorite**
+
 ## Terminal ##
 
 + [A Beautiful Productive Terminal Experience](http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience/)
