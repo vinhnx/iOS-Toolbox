@@ -4,37 +4,52 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>iOS Toolbox by vinhnx</title>
-
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <script src="javascripts/scale.fix.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
   </head>
   <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/vinhnx/iOS-Toolbox">View On GitHub</a></li>
+          <li class="downloads"><a href="https://github.com/vinhnx/iOS-Toolbox/zipball/master">ZIP</a></li>
+          <li class="downloads"><a href="https://github.com/vinhnx/iOS-Toolbox/tarball/master">TAR</a></li>
+          <li class="title">DOWNLOADS</li>
+        </nav>
+      </div><!-- end header -->
+
     <div class="wrapper">
-      <header>
-        <h1>iOS Toolbox</h1>
-        <p>my iOS dev toolbox</p>
-        <p class="view"><a href="https://github.com/vinhnx/iOS-Toolbox">View the Project on GitHub <small>vinhnx/iOS-Toolbox</small></a></p>
-        <ul>
-          <li><a href="https://github.com/vinhnx/iOS-Toolbox/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/vinhnx/iOS-Toolbox/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/vinhnx/iOS-Toolbox">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
+
       <section>
+        <div id="title">
+          <h1>iOS Toolbox</h1>
+          <p>my iOS dev toolbox</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/vinhnx">vinhnx</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
+
         <h3>
 <a name="prologue" class="anchor" href="#prologue"><span class="octicon octicon-link"></span></a>Prologue</h3>
 
-<p>Software development, especially mobile development has been rapidly improving. Nowadays, they are things that are unthinkable as of several years ago. The world has moved to mobile. And as a (newbie) mobile software/iOS developer, I think there're always many thing for us to learn everyday. </p>
+<p>Software development, especially mobile development has been improving rapidly. Nowadays, they are things that are unthinkable as of several years ago. </p>
 
-<p>Being able to keep track of what's news in technology today is really difficult, it's daunting, not to say an impossible task; but we can't help but have to keep being updated. Besides, information overload should be avoided. We all have works to do, and life to enjoy. :) </p>
+<p>The world is moving to mobile. And as a (newbie) mobile software/iOS developer, I think there're always many thing for us to learn everyday.</p>
 
-<p>So, how we manage to find informations, how we can separate them into small priorities/categories, or how we use our tools to make the most of them; there are so many hows?</p>
+<p>Being able to keep track of what's new in technology today is really difficult, it's daunting, not to say an impossible task; but we can't help but have to keep being updated, unless we want to be left behind. </p>
+
+<p>Besides, information overload should be avoided. We all have works to do, and life to enjoy! :) </p>
+
+<p>So, how we manage to find informations, how we can separate them into small priorities/categories, or how we use our tools to make the most of them; there are so many "how".</p>
 
 <p>But the answer is, to me, we just need to learn what matters us the most, and better group them in a list or something like that. I call it a 'toolbox'.</p>
 
@@ -71,18 +86,21 @@
 
 <ul>
 <li>
-<a href="https://news.ycombinator.com/">Hacker News</a> -- words</li>
+<a href="https://news.ycombinator.com/">Hacker News</a> -- words!</li>
 <li>
 <a href="http://cocoapods.org/">CocoaPods</a> -- huge time saver, the one and only tool to help us manage Objective-C dependencies. If possible, don't do drag and drop into Xcode project, use <code>pod install</code> instead. I've been using it in all of <a href="https://itunes.apple.com/us/artist/nguyen-vinh/id670733155">my apps</a> on the iTunes App Store.</li>
 <li>
-<a href="http://www.objc.io/subscribe.html">objc.io</a> -- Don't forget to subscribe</li>
-</ul><p>Also, 
-Cocoapods new pod feeds to email -- Newsletter-like:</p>
+<a href="http://www.objc.io/subscribe.html">objc.io</a> -- Advanced topics in Objective-C development. Don't forget to subscribe!</li>
+</ul><p>Also, </p>
+
+<p>Cocoapods new pod feeds to email -- Newsletter-like:</p>
 
 <ul>
 <li>I'm a <a href="http://en.wikipedia.org/wiki/Fear_of_missing_out">Fear of Missing Out -- FOMO</a> kind of person. And since there is dozens of interesting new pods everyday, it easy to miss something great, and I want to try something new very early. So I create <a href="https://ifttt.com/recipes/132717-notify-new-pods-via-email">this IFTTT recipe</a> to help me do just that. 
-(you can also follow <a href="https://twitter.com/CocoaPodsFeed">@CocoaPodsFeed</a> on Twitter for this reason. As of February 19th, 2014, the feed stops working...)</li>
-</ul><h2>
+(you can also follow <a href="https://twitter.com/CocoaPodsFeed">@CocoaPodsFeed</a> on Twitter for this reason. As of February 19th, 2014, the feed stops working...).</li>
+</ul><p><strong>Update</strong> The fine folks from <a href="https://github.com/CocoaPods" class="user-mention">@CocoaPods</a> has done a dedicated site for new pods feed. As you guess, it is <a href="http://feeds.cocoapods.org">http://feeds.cocoapods.org</a> :)</p>
+
+<h2>
 <a name="blogssites" class="anchor" href="#blogssites"><span class="octicon octicon-link"></span></a>Blogs/sites</h2>
 
 <ul>
@@ -197,6 +215,14 @@ Cocoapods new pod feeds to email -- Newsletter-like:</p>
 <li><a href="http://www.sublimetext.com/dev">SublimeText</a></li>
 <li><a href="MacVim">MacVim</a></li>
 <li>...</li>
+</ul><h1>
+<a name="programming-fonts" class="anchor" href="#programming-fonts"><span class="octicon octicon-link"></span></a>Programming Fonts</h1>
+
+<ul>
+<li><a href="http://www.slant.co/topics/67/%7Ewhat-are-the-best-programming-fonts">What are the best programming fonts?</a></li>
+<li>
+<a href="http://leonardo-m.livejournal.com/77079.html">Inconsolata-g</a> <strong>my favorite</strong> <img class="emoji" title=":beers:" alt=":beers:" src="https://github.global.ssl.fastly.net/images/icons/emoji/beers.png" height="20" width="20" align="absmiddle">
+</li>
 </ul><h2>
 <a name="terminal" class="anchor" href="#terminal"><span class="octicon octicon-link"></span></a>Terminal</h2>
 
@@ -264,6 +290,8 @@ Cocoapods new pod feeds to email -- Newsletter-like:</p>
 <li>...</li>
 </ul><h2>
 <a name="icon-fonts" class="anchor" href="#icon-fonts"><span class="octicon octicon-link"></span></a>Icon fonts</h2>
+
+<p>I personally prefer using icon fonts to using real images (png/jpeg...) in Xcode project, since it is lighter and easier to manage.</p>
 
 <ul>
 <li>
@@ -396,7 +424,7 @@ Cocoapods new pod feeds to email -- Newsletter-like:</p>
 <h3>
 <a name="current-status" class="anchor" href="#current-status"><span class="octicon octicon-link"></span></a>Current status</h3>
 
-<p>... updating</p>
+<p>... finding resources, updating. Feel free to submit a pull request. :)</p>
 
 <h3>
 <a name="todo" class="anchor" href="#todo"><span class="octicon octicon-link"></span></a>Todo</h3>
@@ -422,11 +450,8 @@ Feel free to send me an <a href="mailto:vinhnguyen2308@gmail.com">email</a>.</p>
 
 <p>Thanks for reading! <img class="emoji" title=":smile:" alt=":smile:" src="https://github.global.ssl.fastly.net/images/icons/emoji/smile.png" height="20" width="20" align="absmiddle"></p>
       </section>
+
     </div>
-    <footer>
-      <p>Project maintained by <a href="https://github.com/vinhnx">vinhnx</a></p>
-      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
-    </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     
   </body>
