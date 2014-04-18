@@ -1,10 +1,14 @@
 ### Prologue ###
 
-Software development, especially mobile development has been rapidly improving. Nowadays, they are things that are unthinkable as of several years ago. The world has moved to mobile. And as a (newbie) mobile software/iOS developer, I think there're always many thing for us to learn everyday. 
+Software development, especially mobile development has been improving rapidly. Nowadays, they are things that are unthinkable as of several years ago. 
 
-Being able to keep track of what's news in technology today is really difficult, it's daunting, not to say an impossible task; but we can't help but have to keep being updated. Besides, information overload should be avoided. We all have works to do, and life to enjoy. :) 
+The world is moving to mobile. And as a (newbie) mobile software/iOS developer, I think there're always many thing for us to learn everyday.
 
-So, how we manage to find informations, how we can separate them into small priorities/categories, or how we use our tools to make the most of them; there are so many hows?
+Being able to keep track of what's new in technology today is really difficult, it's daunting, not to say an impossible task; but we can't help but have to keep being updated, unless we want to be left behind. 
+
+Besides, information overload should be avoided. We all have works to do, and life to enjoy! :) 
+
+So, how we manage to find informations, how we can separate them into small priorities/categories, or how we use our tools to make the most of them; there are so many "how".
 
 But the answer is, to me, we just need to learn what matters us the most, and better group them in a list or something like that. I call it a 'toolbox'.
 
@@ -32,14 +36,17 @@ Let's get started! :rocket:
 
 ## Can't miss ##
 
-+ [Hacker News](https://news.ycombinator.com/) -- words
++ [Hacker News](https://news.ycombinator.com/) -- words!
 + [CocoaPods](http://cocoapods.org/) -- huge time saver, the one and only tool to help us manage Objective-C dependencies. If possible, don't do drag and drop into Xcode project, use `pod install` instead. I've been using it in all of [my apps](https://itunes.apple.com/us/artist/nguyen-vinh/id670733155) on the iTunes App Store.
-+ [objc.io](http://www.objc.io/subscribe.html) -- Don't forget to subscribe
++ [objc.io](http://www.objc.io/subscribe.html) -- Advanced topics in Objective-C development. Don't forget to subscribe!
 
 Also, 
+
 Cocoapods new pod feeds to email -- Newsletter-like:
 + I'm a [Fear of Missing Out -- FOMO](http://en.wikipedia.org/wiki/Fear_of_missing_out) kind of person. And since there is dozens of interesting new pods everyday, it easy to miss something great, and I want to try something new very early. So I create [this IFTTT recipe](https://ifttt.com/recipes/132717-notify-new-pods-via-email) to help me do just that. 
-(you can also follow [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed) on Twitter for this reason. As of February 19th, 2014, the feed stops working...)
+(you can also follow [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed) on Twitter for this reason. As of February 19th, 2014, the feed stops working...).
+
+**Update** The fine folks from @CocoaPods has done a dedicated site for new pods feed. As you guess, it is http://feeds.cocoapods.org :)
 
 ## Blogs/sites ##
 
@@ -138,7 +145,7 @@ Twitter accounts you should be following, in no particular orders:
 
 # Programming Fonts ##
 + [What are the best programming fonts?](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)
-+ [Inconsolata-g](http://leonardo-m.livejournal.com/77079.html) **my favorite**
++ [Inconsolata-g](http://leonardo-m.livejournal.com/77079.html) **my favorite** :beers:
 
 ## Terminal ##
 
@@ -185,6 +192,9 @@ Twitter accounts you should be following, in no particular orders:
 + ...
 
 ## Icon fonts ##
+
+I personally prefer using icon fonts to using real images (png/jpeg...) in Xcode project, since it is lighter and easier to manage.
+
 + [ion icons](http://ionicons.com/) -- The premium icon font for Ionic Framework. ([Objective-C port](https://github.com/TapTemplate/ionicons-iOS))
 + [FontAwesome](fortawesome.github.io/Font-Awesome/) -- The iconic font designed for Bootstrap.
 
@@ -277,7 +287,7 @@ Twitter accounts you should be following, in no particular orders:
 
 ### Current status ###
 
-... updating
+... finding resources, updating. Feel free to submit a pull request. :)
 
 ### Todo ###
 
