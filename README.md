@@ -1,6 +1,6 @@
 ### Prologue ###
 
-Software development, especially mobile development has been improving rapidly. Nowadays, they are things that are unthinkable as of several years ago. 
+Software development, especially mobile development has been improving rapidly. Nowadays, they are things that are unthinkable as of several years ago.
 
 The world is moving to mobile. And as a (newbie) mobile software/iOS developer, I think there're always many thing for us to learn everyday.
 
@@ -75,6 +75,7 @@ Twitter accounts you should be following, in no particular orders:
 
 + [@mikeash](http://twitter.com/@mikeash)
 + [@mattt](http://twitter.com/@mattt)
++ [@patio11](http://twitter.com/@patio11)
 + [@ctp](http://twitter.com/@ctp)
 + [@casademora](http://twitter.com/@casademora)
 + [@steipete](http://twitter.com/@steipete)
@@ -103,6 +104,7 @@ Twitter accounts you should be following, in no particular orders:
 + [@codinghorror](http://twitter.com/@codinghorror)
 + [@tonyarnold](http://twitter.com/@tonyarnold)
 + [@alding](http://twitter.com/@alding)
++ ... more, read [this thread](https://news.ycombinator.com/item?id=7614778) on Hacker News.
 + (... your Twitter handle here!)
 
 ## Newsletter ##
