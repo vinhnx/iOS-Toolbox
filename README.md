@@ -149,6 +149,7 @@ Twitter accounts you should be following, in no particular orders:
 # Programming Fonts ##
 + [What are the best programming fonts?](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)
 + [Inconsolata-g](http://leonardo-m.livejournal.com/77079.html) **my favorite** :beers:
++ [INconsolata-dz](http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/)
 
 ## Terminal ##
 
