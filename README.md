@@ -263,11 +263,12 @@ I personally prefer using icon fonts to using real images (png/jpeg...) in Xcode
 + [QSKit](https://github.com/quartermaster/QSKit) -- Q Branch’s collection of Cocoa categories and utilities.
 + ...
 
-## Plugins ##
+##  ##
 
 + Uncrustify: [plugin](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode), [app](https://github.com/ryanmaxwell/UncrustifyX)
 + [Dash](http://kapeli.com/dash)
 + [Alcatraz](supermarin.github.io/Alcatraz)
++ [CodePilot](https://github.com/macoscope/CodePilot)
 + [ClangFormat](https://github.com/travisjeffery/ClangFormat-Xcode)
 + [Cocoapods Xcode plugin](https://github.com/kattrali/cocoapods-xcode-plugin)
 + [FuzzyAutoComplete](https://github.com/chendo/FuzzyAutocompletePlugin)
