@@ -279,6 +279,7 @@ I personally prefer using icon fonts to using real images (png/jpeg...) in Xcode
 + [Dash Plugin for Xcode](https://github.com/omz/Dash-Plugin-for-Xcode)
 + [VVDocument-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
 + [XcodeColors](https://github.com/robbiehanson/XcodeColors)
++ [Hex Color picker](http://wafflesoftware.net/hexpicker/)
 + [Best Xcode Plugins -- blog](http://iosdevtips.co/post/82232620790/best-xcode-plugins)
 + [Xcode Plugins -- NSHipster](http://nshipster.com/xcode-plugins/)
 
