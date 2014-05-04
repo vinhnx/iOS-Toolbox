@@ -24,6 +24,7 @@ Let's get started! :rocket:
 
 + What's in my iOS toolbox: [part 1](http://edsancha.com/blog/2014/01/28/whats-in-my-iOS-toolbox.html), [part 2](http://edsancha.com/blog/2014/02/03/whats-in-my-iOS-toolbox-2.html) by Eduardo Diaz Sancha.
 + [iOS Dev Toolbox](http://ios.devtools.me/) :star::star::star::star::star:
++ [Resources for Mac and iOS Developers](http://www.davemark.com/?p=1829)
 + [The iOS developers Toolbelt](http://benscheirman.com/2013/08/the-ios-developers-toolbelt/) by [Ben Scheirman](https://github.com/subdigital).
 + [iOS Project Catalogue](https://github.com/stanislaw/iOS-Projects-Catalogue) by [Stanislaw Pankevich](https://github.com/stanislaw).
 + [iOS Topics and Reference](https://github.com/2359media/ios-dev-guide/blob/master/iOS%20Topics%20and%20References.md) by [Phat Le](https://github.com/phatle).
