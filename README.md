@@ -8,9 +8,9 @@ Being able to keep track of what's new in technology today is really difficult, 
 
 Besides, information overload should be avoided. We all have works to do, and life to enjoy! :) 
 
-So, how we manage to find informations, how we can separate them into small priorities/categories, or how we use our tools to make the most of them; there are so many "how".
+So, how we manage to find informations, how we can separate them into small priorities/categories, or how we use our tools to make the most of them; there are so many "how"s.
 
-But the answer is, to me, we just need to learn what matters us the most, and better group them in a list or something like that. I call it a 'toolbox'.
+But the answer, to me, is rather simple, let say we just need to learn what matters us the most, and better group them in a list or something like that. I call it 'toolbox'.
 
 Here is my a list of my personal iOS development toolbox. I hope it useful for you somewhat! Feel free to add yours. :)
 
@@ -152,7 +152,7 @@ Twitter accounts you should be following, in no particular orders:
 # Programming Fonts ##
 + [What are the best programming fonts?](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)
 + [Inconsolata-g](http://leonardo-m.livejournal.com/77079.html) **my favorite** :beers:
-+ [INconsolata-dz](http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/)
++ [Inconsolata-dz](http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/)
 
 ## Terminal ##
 
