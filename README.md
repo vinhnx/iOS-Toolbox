@@ -1,5 +1,7 @@
 ### Prologue ###
 
+[Print](https://gitprint.com/vinhnx/iOS-Toolbox?print) | [Download](https://gitprint.com/vinhnx/iOS-Toolbox?download)
+
 Software development, especially mobile development has been improving rapidly. Nowadays, they are things that are unthinkable as of several years ago.
 
 The world is moving to mobile. And as a (newbie) mobile software/iOS developer, I think there're always many thing for us to learn everyday.
