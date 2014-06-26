@@ -269,7 +269,7 @@ I personally prefer using icon fonts to using real images (png/jpeg...) in Xcode
 + [QSKit](https://github.com/quartermaster/QSKit) -- Q Branch’s collection of Cocoa categories and utilities.
 + ...
 
-##  ##
+## Plugins  ##
 
 + Uncrustify: [plugin](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode), [app](https://github.com/ryanmaxwell/UncrustifyX)
 + [Dash](http://kapeli.com/dash)
@@ -293,7 +293,7 @@ I personally prefer using icon fonts to using real images (png/jpeg...) in Xcode
 
 + [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 
-### Swift ###
+## Swift ##
 
 + http://www.swifttoolbox.io
 + http://www.raywenderlich.com/74438/swift-tutorial-a-quick-start
