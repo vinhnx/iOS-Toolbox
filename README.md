@@ -296,6 +296,7 @@ I personally prefer using icon fonts to using real images (png/jpeg...) in Xcode
 
 ## Swift ##
 
++ http://www.objc.io/books/
 + http://www.swifttoolbox.io
 + http://www.raywenderlich.com/74438/swift-tutorial-a-quick-start
 + http://mjtsai.com/blog/2014/06/04/swift-links/
