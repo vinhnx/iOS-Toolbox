@@ -160,6 +160,7 @@ Twitter accounts you should be following, in no particular orders:
 
 ## Terminal ##
 
++ [iTerm](www.iterm2.com) + [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 + [A Beautiful Productive Terminal Experience](http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience/)
 
 ## Style guides ##
