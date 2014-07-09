@@ -68,6 +68,7 @@ Cocoapods new pod feeds to email -- Newsletter-like:
 
 ## Articles ##
 
++ [ObjC Zen Book](https://github.com/objc-zen/objc-zen-book)
 + [Clean, Modern Objective-C by Harlan Harkins](http://harlanhaskins.com/2014/02/20/clean-modern-objective-c.html)
 + [iOS Words - "List of amazing and useful articles in iOS Development." by Minh-Hoang, Nguyen](https://github.com/hugo53/iOS-Words)
 
