@@ -53,6 +53,10 @@ Cocoapods new pod feeds to email -- Newsletter-like:
 
 **Update** The fine folks from @CocoaPods has done a dedicated site for new pods feed. As you guess, it is http://feeds.cocoapods.org :)
 
+## Awesome ##
+
++ ["A a curated list of curated lists of awesome lists."](https://github.com/t3chnoboy/awesome-awesome-awesome)
+
 ## Blogs/sites ##
 
 + [NSHipster](http://nshipster.com/) -- NSHipster is a journal of the overlooked bits in Objective-C and Cocoa. Updated weekly. By [Matt Thompson](https://github.com/mattt).
