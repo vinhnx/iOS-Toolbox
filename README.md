@@ -56,6 +56,7 @@ Cocoapods new pod feeds to email -- Newsletter-like:
 ## Awesome ##
 
 + ["A a curated list of curated lists of awesome lists."](https://github.com/t3chnoboy/awesome-awesome-awesome)
++ [https://github.com/cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
 
 ## Blogs/sites ##
 
