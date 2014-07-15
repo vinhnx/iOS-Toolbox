@@ -174,6 +174,7 @@ Twitter accounts you should be following, in no particular orders:
 + [NYTimes's style guide](https://github.com/NYTimes/objective-c-style-guide)
 + [Google](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
 + [GitHub](https://github.com/github/objective-c-conventions)
++ [Macoscope](https://github.com/macoscope/objc-style-guide)
 + ...
 
 ## Cheat sheet ##
