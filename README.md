@@ -217,6 +217,19 @@ I personally prefer using icon fonts to using real images (png/jpeg...) in Xcode
 + [ion icons](http://ionicons.com/) -- The premium icon font for Ionic Framework. ([Objective-C port](https://github.com/TapTemplate/ionicons-iOS))
 + [FontAwesome](fortawesome.github.io/Font-Awesome/) -- The iconic font designed for Bootstrap.
 
+## Localization Helper ##
+
+Localization is in fact very important in app development process. Here of the tools I found by times.
+
++ https://github.com/angelolloqui/AGi18n
++ https://github.com/aricha/Strings-Localization
++ https://github.com/suhinini/GenLoc
++ https://github.com/nst/objc_strings
++ https://github.com/memfrag/MJLocalizer
++ https://github.com/ecerney/ECLocalizerPlugin
++ https://github.com/macguru/LocalizationSuite
++ https://github.com/iv-mexx/update_localization
+
 ## In-app tools ##
 
 ### Rating prompt ###
