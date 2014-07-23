@@ -230,6 +230,7 @@ Localization is in fact very important in app development process. Here of the t
 + https://github.com/macguru/LocalizationSuite
 + https://github.com/iv-mexx/update_localization
 + http://oleb.net/blog/2013/02/automating-strings-extraction-from-storyboards-for-localization/
++ https://github.com/stefanceriu/SCStringsUtility
 
 ## In-app tools ##
 
