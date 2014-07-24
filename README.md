@@ -319,6 +319,7 @@ Localization is in fact very important in app development process. Here of the t
 
 ## Swift ##
 
++ **https://developer.apple.com/swift/blog/**
 + http://www.objc.io/books/
 + http://www.swifttoolbox.io
 + http://www.weheartswift.com/
@@ -330,7 +331,7 @@ Localization is in fact very important in app development process. Here of the t
 + http://www.alexcurylo.com/blog/2014/06/03/swift-reactions/
 + https://github.com/nettlep/learn-swift
 + https://github.com/ksm/SwiftInFlux
-+ **https://developer.apple.com/swift/blog/**
++ https://github.com/matteocrippa/awesome-swift
 
 ***
 
