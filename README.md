@@ -310,6 +310,7 @@ Localization is in fact very important in app development process. Here of the t
 + [VVDocument-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
 + [XcodeColors](https://github.com/robbiehanson/XcodeColors)
 + [Hex Color picker](http://wafflesoftware.net/hexpicker/)
++ [GitDiff](https://github.com/johnno1962/GitDiff)
 + [Best Xcode Plugins -- blog](http://iosdevtips.co/post/82232620790/best-xcode-plugins)
 + [Xcode Plugins -- NSHipster](http://nshipster.com/xcode-plugins/)
 
