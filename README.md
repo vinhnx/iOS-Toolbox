@@ -333,6 +333,7 @@ Localization is in fact very important in app development process. Here of the t
 + https://github.com/nettlep/learn-swift
 + https://github.com/ksm/SwiftInFlux
 + https://github.com/matteocrippa/awesome-swift
++ http://airspeedvelocity.net/
 
 ***
 
