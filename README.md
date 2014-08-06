@@ -177,6 +177,14 @@ Twitter accounts you should be following, in no particular orders:
 + [Macoscope](https://github.com/macoscope/objc-style-guide)
 + ...
 
+## Tools ##
+
++ [Faux Pass app](http://fauxpasapp.com/)
+
+> Faux Pas inspects your iOS or Mac app’s Xcode project and warns about possible bugs, as well as about maintainability and style issues.
+
++ [Objective-Clean](http://objclean.com/index.php)
+
 ## Cheat sheet ##
 
 + [RayWenderlich's](http://cdn1.raywenderlich.com/downloads/RW-Objective-C-Cheatsheet-v-1-5.pdf) [PDF]
