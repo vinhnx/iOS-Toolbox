@@ -53,6 +53,10 @@ Cocoapods new pod feeds to email -- Newsletter-like:
 
 **Update** The fine folks from @CocoaPods has done a dedicated site for new pods feed. As you guess, it is http://feeds.cocoapods.org :)
 
+### Cocoapods ###
+
++ [Creating a Cocoapod](http://useyourloaf.com/blog/2014/08/13/creating-a-cocoapod.html)
+
 ## Awesome ##
 
 + ["A a curated list of curated lists of awesome lists."](https://github.com/t3chnoboy/awesome-awesome-awesome)
