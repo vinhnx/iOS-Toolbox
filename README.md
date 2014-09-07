@@ -351,6 +351,18 @@ Localization is in fact very important in app development process. Here of the t
 
 ***
 
+# Good Reads #
+
+You know, reading is essential...
+
++ [Subtraction by Khoi Vinh](http://www.subtraction.com/)
++ [Coding Horror by Jeff Atwood](http://blog.codinghorror.com/)
++ [Blog by Micheal Tsai](http://mjtsai.com/blog/)
++ [inessential by Brent Simmons](http://inessential.com/)
++ [The Codist by Andrew Wulf](http://thecodist.com/)
+
+***
+
 ## Footnotes ##
 
 ### Current status ###
