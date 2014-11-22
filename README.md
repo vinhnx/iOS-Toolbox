@@ -246,6 +246,14 @@ Localization is in fact very important in app development process. Here of the t
 + http://oleb.net/blog/2013/02/automating-strings-extraction-from-storyboards-for-localization/
 + https://github.com/stefanceriu/SCStringsUtility
 
+## iOS 8 ##
+
+### Extensions ###
+
++ Sharing extension:
+  + http://blog.indragie.com/post/87910855304/wwdc-2014-session-205-creating-extensions-for-ios-and
+  + http://blog.indragie.com/post/87910855304/wwdc-2014-session-205-creating-extensions-for-ios-and
+
 ## In-app tools ##
 
 ### Rating prompt ###
