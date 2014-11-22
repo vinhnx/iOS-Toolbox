@@ -255,6 +255,7 @@ Localization is in fact very important in app development process. Here of the t
   + http://engineering.tumblr.com/post/97658880154/what-we-learned-building-the-tumblr-ios-share-extension
   + http://www.nsscreencast.com/episodes/144-share-extensions-part-1
   + http://www.nsscreencast.com/episodes/145-share-extensions-part-2
+  + http://engineering.tumblr.com/post/97658880154/what-we-learned-building-the-tumblr-ios-share-extension
 
 ## In-app tools ##
 
