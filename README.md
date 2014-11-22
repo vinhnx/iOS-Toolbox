@@ -256,6 +256,10 @@ Localization is in fact very important in app development process. Here of the t
   + http://www.nsscreencast.com/episodes/144-share-extensions-part-1
   + http://www.nsscreencast.com/episodes/145-share-extensions-part-2
   + http://engineering.tumblr.com/post/97658880154/what-we-learned-building-the-tumblr-ios-share-extension
+  + http://asciiwwdc.com/2014/sessions/205
+  + http://asciiwwdc.com/2014/sessions/217
+  + http://www.shinobicontrols.com/blog/posts/2014/07/21/ios8-day-by-day-day-2-sharing-extension
+  + https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/index.html#//apple_ref/doc/uid/TP40014214-CH20-SW1
 
 ## In-app tools ##
 
