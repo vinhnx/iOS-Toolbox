@@ -259,6 +259,7 @@ Localization is in fact very important in app development process. Here of the t
 + http://asciiwwdc.com/2014/sessions/217
 + http://www.shinobicontrols.com/blog/posts/2014/07/21/ios8-day-by-day-day-2-sharing-extension
 + https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/index.html#//apple_ref/doc/uid/TP40014214-CH20-SW1
++ http://norbertlindenberg.com/2014/12/developing-keyboards-for-ios/
 
 ## In-app tools ##
 
