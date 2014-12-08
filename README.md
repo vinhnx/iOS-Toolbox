@@ -41,6 +41,7 @@ Let's get started! :rocket:
 + [Worthy iOS Library](http://bpoplauschi.wordpress.com/2013/11/06/worthy-ios-libraries/)
 + [Worthy iOS Development Tools](http://bpoplauschi.wordpress.com/2014/03/07/worthy-ios-development-tools/)
 + http://gimenete.github.io/devtoolbelt/index.html
++https://github.com/futurice/ios-good-practices
 
 ## Can't miss ##
 
