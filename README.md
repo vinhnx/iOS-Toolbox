@@ -250,6 +250,10 @@ Localization is in fact very important in app development process. Here of the t
 
 ## iOS 8 ##
 
+### Pay ###
++ http://nshipster.com/apple-pay/
++ http://www.raywenderlich.com/87300/apple-pay-tutorial
+
 ### Extensions ###
 + http://beta-blog.archagon.net/2014/11/08/the-trials-and-tribulations-of-writing-a-3rd-party-ios-keyboard/
 + http://blog.indragie.com/post/87910855304/wwdc-2014-session-205-creating-extensions-for-ios-and
