@@ -266,6 +266,12 @@ Localization is in fact very important in app development process. Here of the t
 + https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/index.html#//apple_ref/doc/uid/TP40014214-CH20-SW1
 + http://norbertlindenberg.com/2014/12/developing-keyboards-for-ios/
 
+# Adaptive Layout
+
++ http://www.jessesquires.com/adaptive-user-interfaces/
++ http://mathewsanders.com/designing-adaptive-layouts-for-iphone-6-plus/
++ http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial
+
 ## In-app tools ##
 
 ### Rating prompt ###
