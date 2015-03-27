@@ -6,11 +6,11 @@
 
 Software development, especially mobile development has been improving rapidly. Nowadays, they are things that are unthinkable as of several years ago.
 
-The world is moving to mobile. And as a (newbie) mobile software/iOS developer, I think there're always many thing for us to learn everyday.
+The world is moving to mobile and soon to your [wrist](http://www.apple.com/watch/). And as a (newbie) mobile software/iOS developer, I think they're always many thing for us to learn everyday.
 
 Being able to keep track of what's new in technology today is really difficult, it's daunting, not to say an impossible task; but we can't help but have to keep being updated, unless we want to be left behind. 
 
-Besides, information overload should be avoided. We all have works to do, and life to enjoy! :) 
+Besides, information overload should be avoided. We all have works to do, and most importantly, family to take care of and life to enjoy! :) 
 
 So, how we manage to find informations, how we can separate them into small priorities/categories, or how we use our tools to make the most of them; there are so many "how"s.
 
@@ -20,7 +20,7 @@ Here is my a list of my personal iOS development toolbox. I hope it useful for y
 
 **(Note: All list items are arranged in no particular order)**
 
-Let's get started! :rocket:
+I know you are awesome, let's get started! :rocket:
 
 ***
 
@@ -419,4 +419,4 @@ Feel free to send me an [email](mailto:vinhnguyen2308@gmail.com).
 
 -- 
 
-Thanks for reading! :smile:
+Thanks for reading, keep being awesome and ship great code! :smile:
