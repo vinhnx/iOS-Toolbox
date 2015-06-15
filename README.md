@@ -24,6 +24,14 @@ I know you are awesome, let's get started! :rocket:
 
 ***
 
+# WWDC 2015 #
+
+It's time! Because we're all busy, but there is an app for that.
+
+[WWDC Mac app by Guilherme Rambo](https://github.com/insidegui/WWDC) helps you get the most out of this year "dub-dub". The best part is, you can even search for past events as well.
+
+***
+
 ### References ###
 
 + What's in my iOS toolbox: [part 1](http://edsancha.com/blog/2014/01/28/whats-in-my-iOS-toolbox.html), [part 2](http://edsancha.com/blog/2014/02/03/whats-in-my-iOS-toolbox-2.html) by Eduardo Diaz Sancha.
