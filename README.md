@@ -51,6 +51,11 @@ It's time! Because we're all busy, but there is an app for that.
 + [Dev Toolbelt](http://gimenete.github.io/devtoolbelt/index.html)
 + [iOS Good Practice](https://github.com/futurice/ios-good-practices)
 
+## Slack ##
+
++ [A handpicked selection of top Slack groups](http://slacklist.info/)
++ [iOS Developer Slack group](http://ios-developers.io)
+
 ## Can't miss ##
 
 + [Hacker News](https://news.ycombinator.com/) -- words!
