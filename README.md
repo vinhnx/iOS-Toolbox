@@ -181,7 +181,16 @@ Twitter accounts you should be following, in no particular orders:
 + [MacVim](MacVim)
 + ...
 
-# Programming Fonts ##
+## Themes ##
+
++ Ciapre [Xcode](https://github.com/vinhnx/Ciapre-Xcode-theme), [TextMate, SublimeText](https://github.com/vinhnx/Ciapre.tmTheme)
+
+## Programming Fonts ##
+
+> "Stop wasting your braintime on meaningless stuff like this and get back to coding. If you replace 'font' with some cosmetic product y'all sound like a bunch of valley girls."
+> -- [Some Guy on Reddit](https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu)
+
++ [Codeface](https://github.com/chrissimpkins/codeface)
 + [What are the best programming fonts?](http://www.slant.co/topics/67/~what-are-the-best-programming-fonts)
 + [Inconsolata-g](http://leonardo-m.livejournal.com/77079.html) **my favorite** :beers:
 + [Inconsolata-dz](http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/)
