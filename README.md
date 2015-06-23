@@ -223,6 +223,8 @@ Twitter accounts you should be following, in no particular orders:
 
 ## Media ##
 
+Media-based app is growing like crazy.
+
 ### Player Kit/SDK ###
 
 + [DailyMotion](https://github.com/dailymotion/dailymotion-player-sdk-ios)
@@ -234,6 +236,7 @@ Twitter accounts you should be following, in no particular orders:
 + [PBJVideoPlayer](https://github.com/piemonte/PBJVideoPlayer)
 + [GUIPlayerView](https://github.com/guilhermearaujo/GUIPlayerView)
 + [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit)
++ [youtube-ios-player-helper](https://github.com/youtube/youtube-ios-player-helper)
 
 ## Analytics tools ##
 
