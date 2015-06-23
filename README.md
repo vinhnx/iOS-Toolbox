@@ -221,6 +221,20 @@ Twitter accounts you should be following, in no particular orders:
 + [RayWenderlich's](http://cdn1.raywenderlich.com/downloads/RW-Objective-C-Cheatsheet-v-1-5.pdf) [PDF]
 + [Rob Phillips's](https://github.com/iwasrobbed/Objective-C-CheatSheet)
 
+## Media ##
+
+### Player Kit/SDK ###
+
++ [DailyMotion](https://github.com/dailymotion/dailymotion-player-sdk-ios)
++ [DZVideoPlayerViewController](https://github.com/DZamataev/DZVideoPlayerViewController)
++ [Vimeo](https://github.com/vimeo/VIMVideoPlayer)
++ [VKVideoPlayer](https://github.com/viki-org/VKVideoPlayer)
++ [iOS-Video-Player](https://github.com/haikieu/iOS-Video-Player)
++ [YKMediaPlayerKit](https://github.com/YasKuraishi/YKMediaPlayerKit)
++ [PBJVideoPlayer](https://github.com/piemonte/PBJVideoPlayer)
++ [GUIPlayerView](https://github.com/guilhermearaujo/GUIPlayerView)
++ [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit)
+
 ## Analytics tools ##
 
 ### Free ###
