@@ -6,7 +6,7 @@
 
 Software development, especially mobile development has been improving rapidly. Nowadays, they are things that are unthinkable as of several years ago.
 
-The world is moving to mobile and to your [wrist](http://www.apple.com/watch/). And as a mobile software/iOS developer, I think they're always many thing for us to learn everyday.
+The world is moving to mobile and now on our [wrist](http://www.apple.com/watch/). And as a mobile software/iOS developer, I think they're always many thing for us to learn everyday.
 
 Being able to keep track of what's new in technology today is really difficult, it's daunting, not to say an impossible task; but we can't help but have to keep being updated, unless we want to be left behind. 
 
