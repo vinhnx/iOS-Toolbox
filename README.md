@@ -176,6 +176,8 @@ Twitter accounts you should be following, in no particular orders:
 
 (For Xcode Package Management, I highly recommended [Alcatraz](http://mneorr.github.io/Alcatraz/), It is something you don't want to miss in your Xcode dev arsenal.)
 
+[Worthy iOS development tools](https://bpoplauschi.wordpress.com/2014/03/07/worthy-ios-development-tools/)
+
 ## Text Editor ##
 
 + [SublimeText](http://www.sublimetext.com/dev)
