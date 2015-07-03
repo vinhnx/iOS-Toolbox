@@ -8,7 +8,7 @@ Software development, especially mobile development has been improving rapidly. 
 
 The world is moving to mobile and now on our [wrist](http://www.apple.com/watch/). And as a mobile software/iOS developer, I think they're always many thing for us to learn everyday.
 
-Being able to keep track of what's new in technology today is really difficult, it's daunting, not to say an impossible task; but we can't help but have to keep being updated, unless we want to be left behind. 
+Being able to keep track of what's new in technology today is really [difficult](https://bpoplauschi.wordpress.com/2015/04/08/list-of-blogs/), it's daunting, not to say an impossible task; but we can't help but have to keep being updated, unless we want to be left behind. 
 
 Besides, information overload should be avoided. We all have works to do, and most importantly, family to take care of and life to enjoy! :) 
 
@@ -50,6 +50,7 @@ It's time! Because we're all busy, but there is an app for that.
 + [Worthy iOS Development Tools](http://bpoplauschi.wordpress.com/2014/03/07/worthy-ios-development-tools/)
 + [Dev Toolbelt](http://gimenete.github.io/devtoolbelt/index.html)
 + [iOS Good Practice](https://github.com/futurice/ios-good-practices)
++ [Staying up to date with the iOS dev community](https://bpoplauschi.wordpress.com/2015/04/08/list-of-blogs/)
 
 ## Slack ##
 
