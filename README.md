@@ -157,6 +157,8 @@ Twitter accounts you should be following, in no particular orders:
 
 > Not only are podcasts a great way to stay connected to the development community, they’re also a way to stay productive in your downtime.
 
++ [Release Notes](https://itun.es/vn/Z96WM.c)
++ [CocoaConf Podcast](https://itun.es/vn/g5jO0.c)
 + [Pod5](http://pod5.io/)
 + [NSBrief](http://nsbrief.com/)
 + [iphreaksshow](http://iphreaksshow.com/)
@@ -168,6 +170,9 @@ Twitter accounts you should be following, in no particular orders:
 + [NSPodcast](https://github.com/lukabratos/NSPodcasts)
 + [Cocoaradio](http://feedpress.me/cocoaradio)
 + [Effective Programming](https://itunes.apple.com/us/podcast/effective-programming/id878947397?mt=2)
+
+** Bonus ** 
++ [Music For Programming](https://itun.es/vn/0zG1D.c)
 
 ## Objective-C IDE ##
 
