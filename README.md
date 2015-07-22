@@ -368,8 +368,14 @@ Localization is in fact very important in app development process. Here of the t
 
 ## Functional Reactive Programming for Cocoa(Touch) ##
 
+### ReactiveCocoa ##
 + [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) -- A framework for composing and transforming streams of values.
 + [RAC Marbles - Interactive diagrams for ReactiveCocoa](http://neilpa.me/rac-marbles/)
++ [Reactive Programming on Objective-C](https://yalantis.com/blog/reactive-programming-on-objective-c/)
++ [ReactiveCocoa Asynchronous Libraries](http://spin.atomicobject.com/2015/03/19/reactivecocoa-asynchronous-libraries/)
++ [ReactiveCocoa MVVM Introduction](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
++ [ReactiveCocoa design pattern](http://rcdp.io/)
++ [ReactiveCocoa note by JaviSoto](https://gist.github.com/JaviSoto/9098262)
 
 ## Model ##
 
