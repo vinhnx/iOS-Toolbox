@@ -62,14 +62,7 @@ It's time! Because we're all busy, but there is an app for that.
 + [Hacker News](https://news.ycombinator.com/) -- words!
 + [CocoaPods](http://cocoapods.org/) -- huge time saver, the one and only tool to help us manage Objective-C dependencies. If possible, don't do drag and drop into Xcode project, use `pod install` instead. I've been using it in all of [my apps](https://itunes.apple.com/us/artist/nguyen-vinh/id670733155) on the iTunes App Store.
 + [objc.io](http://www.objc.io/subscribe.html) -- Advanced topics in Objective-C development. Don't forget to subscribe!
-
-Also, 
-
-Cocoapods new pod feeds to email -- Newsletter-like:
-+ I'm a [Fear of Missing Out -- FOMO](http://en.wikipedia.org/wiki/Fear_of_missing_out) kind of person. And since there is dozens of interesting new pods everyday, it easy to miss something great, and I want to try something new very early. So I create [this IFTTT recipe](https://ifttt.com/recipes/132717-notify-new-pods-via-email) to help me do just that. 
-(you can also follow [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed) on Twitter for this reason. As of February 19th, 2014, the feed stops working...).
-
-**Update** The fine folks from @CocoaPods has done a dedicated site for new pods feed. As you guess, it is http://feeds.cocoapods.org :)
++ http://feeds.cocoapods.org
 
 ### Cocoapods ###
 
