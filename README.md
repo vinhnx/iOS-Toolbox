@@ -74,6 +74,7 @@ It's time! Because we're all busy, but there is an app for that.
 + ["A a curated list of curated lists of awesome lists."](https://github.com/t3chnoboy/awesome-awesome-awesome)
 + [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)
 + [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
++ [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.](https://github.com/minimaxir/big-list-of-naughty-strings)
 
 ## Blogs/sites ##
 
