@@ -72,7 +72,8 @@ It's time! Because we're all busy, but there is an app for that.
 
 + ["A curated list of awesome lists"](https://github.com/sindresorhus/awesome)
 + ["A a curated list of curated lists of awesome lists."](https://github.com/t3chnoboy/awesome-awesome-awesome)
-+ [https://github.com/cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
++ [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)
++ [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
 
 ## Blogs/sites ##
 
@@ -165,7 +166,9 @@ Twitter accounts you should be following, in no particular orders:
 + [Effective Programming](https://itunes.apple.com/us/podcast/effective-programming/id878947397?mt=2)
 
 ** Bonus ** 
+
 + [Music For Programming](https://itun.es/vn/0zG1D.c)
++ [Sona.fm](http://somafm.com/)
 
 ## Objective-C IDE ##
 
@@ -207,7 +210,7 @@ Twitter accounts you should be following, in no particular orders:
 + [Google](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
 + [GitHub](https://github.com/github/objective-c-conventions)
 + [Macoscope](https://github.com/macoscope/objc-style-guide)
-+ ...
++ [A curated list of Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)
 
 ## Tools ##
 
