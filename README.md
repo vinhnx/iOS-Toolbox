@@ -165,6 +165,7 @@ Twitter accounts you should be following, in no particular orders:
 + [NSPodcast](https://github.com/lukabratos/NSPodcasts)
 + [Cocoaradio](http://feedpress.me/cocoaradio)
 + [Effective Programming](https://itunes.apple.com/us/podcast/effective-programming/id878947397?mt=2)
++ [The Changelog](https://itunes.apple.com/vn/podcast/the-changelog/id341623264?mt=2)
 
 ** Bonus ** 
 
