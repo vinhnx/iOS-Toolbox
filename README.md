@@ -139,6 +139,7 @@ Twitter accounts you should be following, in no particular orders:
 
 ## Newsletter ##
 
++ [Indie iOS Focus Weekly](https://indieiosfocus.curated.co/)
 + [iOS Goodies](http://ios-goodies.tumblr.com/rss), [IFTTT recipe](https://ifttt.com/recipes/143200-ios-goodies-blog)
 + [ManiacDev](http://ManiacDev.Com)
 + [Dailybbble](http://dailybbble.herokuapp.com/), app design inspiration
