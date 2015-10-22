@@ -139,6 +139,7 @@ Twitter accounts you should be following, in no particular orders:
 
 ## Newsletter ##
 
++ [The iOS Times](http://theiostimes.com/)
 + [Indie iOS Focus Weekly](https://indieiosfocus.curated.co/)
 + [iOS Goodies](http://ios-goodies.tumblr.com/rss), [IFTTT recipe](https://ifttt.com/recipes/143200-ios-goodies-blog)
 + [ManiacDev](http://ManiacDev.Com)
@@ -432,13 +433,14 @@ Localization is in fact very important in app development process. Here of the t
 + http://airspeedvelocity.net/
 + https://swiftnews.curated.co/
 + http://www.h4labs.com/dev/ios/swift.html
-
++ [Developing iOS 8 Apps with Swift](https://itunes.apple.com/vn/course/developing-ios-8-apps-swift/id961180099)
 ***
 
 # Good Reads #
 
 You know, reading is essential...
 
++ [mokacoding by Giovanni Lodi](http://www.mokacoding.com/)
 + [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 + [Subtraction by Khoi Vinh](http://www.subtraction.com/)
 + [Coding Horror by Jeff Atwood](http://blog.codinghorror.com/)
