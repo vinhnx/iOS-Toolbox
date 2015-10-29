@@ -34,6 +34,7 @@ It's time! Because we're all busy, but there is an app for that.
 
 ### References ###
 
++ [Khoa Pham's iOS Resources](https://github.com/onmyway133/ios-resources)
 + What's in my iOS toolbox: [part 1](http://edsancha.com/blog/2014/01/28/whats-in-my-iOS-toolbox.html), [part 2](http://edsancha.com/blog/2014/02/03/whats-in-my-iOS-toolbox-2.html) by Eduardo Diaz Sancha.
 + [iOS Dev Toolbox](http://ios.devtools.me/) :star::star::star::star::star:
 + [Recommended Toolbox for iOS](http://www.fantageek.com/1021/recommended-toolbox-for-ios/)
