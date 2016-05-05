@@ -79,6 +79,7 @@ It's time! Because we're all busy, but there is an app for that.
 
 ## Blogs/sites ##
 
++ [UNDER THE BRIDGE](http://www.alexcurylo.com/blog/)
 + [NSHipster](http://nshipster.com/) -- NSHipster is a journal of the overlooked bits in Objective-C and Cocoa. Updated weekly. By [Matt Thompson](https://github.com/mattt).
 + [NSBlog](https://www.mikeash.com/pyblog/) [by Mike Ash](https://github.com/mikeash)
 + [iOSDeveloperTips](http://iosdevelopertips.com/)
