@@ -464,6 +464,10 @@ You know, reading is essential...
 + [inessential by Brent Simmons](http://inessential.com/)
 + [The Codist by Andrew Wulf](http://thecodist.com/)
 
+# Learn #
+
++ [Git tips](https://github.com/git-tips/tips)
+
 ***
 
 ## Footnotes ##
