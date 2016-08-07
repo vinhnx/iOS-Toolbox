@@ -158,6 +158,7 @@ Twitter accounts you should be following, in no particular orders:
 
 > Not only are podcasts a great way to stay connected to the development community, they’re also a way to stay productive in your downtime.
 
++ [This is a list of podcasts of interest to iOS developers. By Josh Adams](https://github.com/vermont42/Podcasts) :rocket:
 + [**What It Takes**](https://simplecast.com/podcasts/1262/rss) -- This podcast is very worth listening.
 + [Under The Radar](https://www.relay.fm/radar/feed)
 + [The Talk Show](http://daringfireball.net/thetalkshow/rss)
