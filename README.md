@@ -238,6 +238,7 @@ Twitter accounts you should be following, in no particular orders:
 
 ## Tools ##
 
++ [RefactoratorApp](https://github.com/johnno1962/RefactoratorApp) - essiential app for refactor Swift!
 + [Faux Pass app](http://fauxpasapp.com/)
 
 > Faux Pas inspects your iOS or Mac app’s Xcode project and warns about possible bugs, as well as about maintainability and style issues.
