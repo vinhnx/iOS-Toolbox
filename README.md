@@ -26,6 +26,9 @@ I know you are awesome, let's get started! :rocket:
 
 # Tools #
 
+If you are dealing with networking and Realm, these tools are essentials:
+
++ [Realm Browser](https://github.com/realm/realm-browser-osx): Realm Browser is a Mac OS X utility to open and modify realm database files. https://realm.io
 + [SimSim](https://github.com/dsmelov/simsim): Use SimSim to explore iOS application folders in Terminal or Finder. Fast, stable, free alternative to SimPholders.
 + [JSONExport](https://github.com/Ahmed-Ali/JSONExport): JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 
