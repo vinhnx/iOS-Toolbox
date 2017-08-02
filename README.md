@@ -36,7 +36,9 @@ If you are dealing with networking and Realm, these tools are essentials:
 
 ImageOptim :rocket:
 + https://github.com/ImageOptim/ImageOptim - GUI image optimizer for Mac https://imageoptim.com/mac
-+ https://imageoptim.com/api
+
+PNGmini
++ https://github.com/pornel/ImageAlpha - Mac GUI for pngquant, pngnq and posterizer https://pngmini.com
 
 ***
 
