@@ -521,4 +521,10 @@ Feel free to send me an [email](mailto:vinhnguyen2308@gmail.com).
 
 -- 
 
+## Patreon ##
+
+I also have a Patreon in case you want to support my work. Thank you in advance!
+
+https://www.patreon.com/vinhnx
+
 Thanks for reading, keep being awesome and ship great code! :smile:
