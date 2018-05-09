@@ -491,6 +491,7 @@ You know, reading is essential...
 # Learn #
 
 + [Git tips](https://github.com/git-tips/tips)
++ [My own iOS notes](https://github.com/vinhnx/iOS-notes)
 
 ***
 
