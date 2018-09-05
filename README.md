@@ -95,7 +95,7 @@ It's time! Because we're all busy, but there is an app for that.
 + [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)
 + [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
 + [The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.](https://github.com/minimaxir/big-list-of-naughty-strings)
-* [Marketing-for-Engineers Collection](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Marketing-for-Engineers Collection](https://github.com/LisaDziuba/Marketing-for-Engineers) :rocket:
 
 ## Blogs/sites ##
 
