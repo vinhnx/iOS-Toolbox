@@ -207,6 +207,7 @@ Twitter accounts you should be following, in no particular orders:
 + [Cocoaradio](http://feedpress.me/cocoaradio)
 + [Effective Programming](https://itunes.apple.com/us/podcast/effective-programming/id878947397?mt=2)
 + [The Changelog](https://itunes.apple.com/vn/podcast/the-changelog/id341623264?mt=2)
++ [More Than Just Code](https://itunes.apple.com/ca/podcast/mtjc-podcast-podcast-about/id906987516?mt=2)
 
 ** Bonus ** 
 
