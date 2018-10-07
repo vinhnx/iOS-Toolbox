@@ -52,9 +52,9 @@ It's time! Because we're all busy, but there is an app for that.
 
 ### References ###
 
-+ My own iOS notes, things that collect through my daily development work, sometimes weekend researches (https://github.com/vinhnx/iOS-notes)
++ [My own iOS notes, things that collect through my daily development work, sometimes weekend researches -- Inspired by Khoa's notes below](https://github.com/vinhnx/iOS-notes)
++ [Khoa Pham's iOS notes](https://github.com/onmyway133/notes)
 + [My iOS Development Toolkit 2016 - by Sebastian Boldt](https://medium.com/ios-os-x-development/my-ios-development-toolkit-2016-ba7601b68085#.asmmr39vu)
-+ [Khoa Pham's iOS Resources](https://github.com/onmyway133/ios-resources)
 + What's in my iOS toolbox: [part 1](http://edsancha.com/blog/2014/01/28/whats-in-my-iOS-toolbox.html), [part 2](http://edsancha.com/blog/2014/02/03/whats-in-my-iOS-toolbox-2.html) by Eduardo Diaz Sancha.
 + [iOS Dev Toolbox](http://ios.devtools.me/) :star::star::star::star::star:
 + [Recommended Toolbox for iOS](http://www.fantageek.com/1021/recommended-toolbox-for-ios/)
